@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Dependency directories
+vendor/
+composer.lock
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Java
+*.class
+
+# Ruby
+*.gem
+*.rbc
+
+# Temporary files
+tmp/
+*.tmp
